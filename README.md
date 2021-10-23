@@ -1,14 +1,14 @@
 
 
-Specify the Truffle version and OpenZeppelin version used in the project.
-  Truffle: 5.4.15
-  OpenZeppelin: 2.3.0
-Your ERC-721 Token Name
-  Token Name: StarToken
-Your ERC-721 Token Symbol
-  Token Symbol: StT
-Your “Token Address” on the **Robsten** Network
-    Contract Address: 0x2e87dF302Cb5dd9dF0d6b6Ae487DB6ab4BdEBb48
+<b> Specify the Truffle version and OpenZeppelin version used in the project. </b> <br>
+  Truffle: 5.4.15 <br>
+  OpenZeppelin: 2.3.0 <br>
+<b>Your ERC-721 Token Name</b> <br>
+  Token Name: StarToken <br>
+<b>Your ERC-721 Token Symbol</b> <br>
+  Token Symbol: StT <br>
+<b>Your “Token Address” on the **Robsten** Network</b> <br>
+    Contract Address: 0x2e87dF302Cb5dd9dF0d6b6Ae487DB6ab4BdEBb48 <br>
     Token Address: 0x473b3a1fbbde99c814314a3912d7a432699cdbf4417b1008d04c0d7d98cad55c
 
 
